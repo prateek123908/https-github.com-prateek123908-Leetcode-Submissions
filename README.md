@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
