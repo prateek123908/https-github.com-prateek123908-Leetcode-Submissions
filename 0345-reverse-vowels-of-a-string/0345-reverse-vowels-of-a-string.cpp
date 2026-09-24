@@ -6,17 +6,18 @@ public:
         return false;
     }
     string reverseVowels(string s) {
-        vector<char>v;
-        for(int i=0;i<s.length();i++){
-            if(isVowel(s[i]) )
-           v.push_back(s[i]);
-        }
-        reverse(v.begin(),v.end());
-        int j=0;
-        for(int i=0;i<s.length();i++){
-             if(isVowel(s[i]) ){
-               s[i]=v[j++];
-             }
+        int st=0;
+        int end=s.length()-1;
+        while(st<end){
+            while(!isVowel(s[st]) && st<end){
+                st++;
+            }
+            while(!isVowel(s[end]) && st<end){
+                end--;
+            }
+            swap(s[st],s[end]);
+            st++;
+            end--;
         }
         return s;
     }
