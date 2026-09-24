@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
