@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
