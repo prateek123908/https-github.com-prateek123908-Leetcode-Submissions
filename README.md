@@ -75,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
