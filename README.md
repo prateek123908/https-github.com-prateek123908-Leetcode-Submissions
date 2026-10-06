@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -101,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
