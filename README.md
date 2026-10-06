@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0143-reorder-list) |
