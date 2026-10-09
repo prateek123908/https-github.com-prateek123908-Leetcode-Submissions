@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0495-teemo-attacking](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bracket Sequences
 |  |
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
