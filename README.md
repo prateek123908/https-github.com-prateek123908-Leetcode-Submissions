@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
