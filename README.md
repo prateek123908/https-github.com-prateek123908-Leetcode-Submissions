@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -170,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
