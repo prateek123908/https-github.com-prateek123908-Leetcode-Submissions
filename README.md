@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3028-ant-on-the-boundary) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3028-ant-on-the-boundary) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Design
 |  |
 | ------- |
