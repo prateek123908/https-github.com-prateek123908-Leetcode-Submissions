@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2739-total-distance-traveled](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
