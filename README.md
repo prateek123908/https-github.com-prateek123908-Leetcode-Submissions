@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
