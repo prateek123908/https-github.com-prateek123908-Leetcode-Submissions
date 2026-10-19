@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2682-find-the-losers-of-the-circular-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bracket Sequences
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2582-pass-the-pillow](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2582-pass-the-pillow) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -220,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
