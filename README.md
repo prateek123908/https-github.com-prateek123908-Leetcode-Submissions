@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2293-min-max-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [2293-min-max-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2553-separate-the-digits-in-an-array) |
