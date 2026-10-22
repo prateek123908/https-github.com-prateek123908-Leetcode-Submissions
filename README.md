@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
 | [2582-pass-the-pillow](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2582-pass-the-pillow) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
 | [1646-get-maximum-in-generated-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1646-get-maximum-in-generated-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
