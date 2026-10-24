@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1646-get-maximum-in-generated-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-min-max-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
+| [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2974-minimum-number-game) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
