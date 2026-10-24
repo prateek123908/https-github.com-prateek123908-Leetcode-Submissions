@@ -1,21 +1,17 @@
 class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
-        unordered_map<int, int> freqMap;
         vector<int>ans;
-        int rowNo=1;
-        for (const auto& row : nums) {
-        for (int val : row) {
-            freqMap[val]++; 
-            if(freqMap[val]>rowNo) freqMap[val]=rowNo;
+        vector<int>freq(1001,0);
+        for(const auto& row:nums){
+            for(int val:row){
+                freq[val]++;
+            }
         }
-        rowNo++;
-    }
-      for(const auto& pair:freqMap){
-        if(pair.second==nums.size())
-        ans.push_back(pair.first);
-      } 
-      sort(ans.begin(),ans.end()); 
+        for(int i=1;i<freq.size();i++){
+            if(freq[i]==nums.size())
+            ans.push_back(i);
+        }
       return ans;
     }
 };
