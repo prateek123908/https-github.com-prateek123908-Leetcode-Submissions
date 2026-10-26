@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0832-flipping-an-image) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
