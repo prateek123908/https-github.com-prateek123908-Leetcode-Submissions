@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1518-water-bottles](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1518-water-bottles) |
 | [1646-get-maximum-in-generated-array](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
