@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0507-perfect-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
