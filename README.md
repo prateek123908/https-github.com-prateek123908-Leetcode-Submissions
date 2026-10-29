@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1688-count-of-matches-in-tournament) |
+| [1952-three-divisors](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2235-add-two-integers) |
 | [2582-pass-the-pillow](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2582-pass-the-pillow) |
@@ -257,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
