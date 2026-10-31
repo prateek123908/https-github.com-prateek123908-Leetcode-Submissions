@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0645-set-mismatch](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0645-set-mismatch) |
 | [2248-intersection-of-multiple-arrays](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0061-rotate-list) |
