@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
+| [3693-climbing-stairs-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
