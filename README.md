@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0495-teemo-attacking) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/1025-divisor-game) |
 | [3693-climbing-stairs-ii](https://github.com/prateek123908/https-github.com-prateek123908-Leetcode-Submissions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
